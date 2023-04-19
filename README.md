@@ -42,9 +42,9 @@ $ yarn start
 
 ### Layouts
 <h1 align="center">
-  <img alt="InCicle" title="layout menos que 10" src="https://github.com/r-santtos/InCicle/blob/develop/images/desktop.png" />
-  <img alt="InCicle" title="layout maior que 10" src="https://github.com/r-santtos/InCicle/blob/develop/images/mobile.png" />
-  <img alt="InCicle" title="layout maior que 10" src="https://github.com/r-santtos/InCicle/blob/develop/images/mobile2.png" />
-  <img alt="InCicle" title="layout maior que 10" src="https://github.com/r-santtos/InCicle/blob/develop/images/tablet.png" />
-  <img alt="InCicle" title="layout maior que 10" src="https://github.com/r-santtos/InCicle/blob/develop/images/tablet2.png" />
+  <img alt="InCicle" title="layout menos que 10" src="https://github.com/r-santtos/InCicle-develop/blob/develop/images/desktop.png" />
+  <img alt="InCicle" title="layout maior que 10" src="https://github.com/r-santtos/InCicle-develop/blob/develop/images/mobile.png" />
+  <img alt="InCicle" title="layout maior que 10" src="https://github.com/r-santtos/InCicle-develop/blob/develop/images/mobile2.png" />
+  <img alt="InCicle" title="layout maior que 10" src="https://github.com/r-santtos/InCicle-develop/blob/develop/images/tablet.png" />
+  <img alt="InCicle" title="layout maior que 10" src="https://github.com/r-santtos/InCicle-develop/blob/develop/images/tablet2.png" />
 </h1>
